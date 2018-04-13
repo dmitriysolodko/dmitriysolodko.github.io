@@ -1,2 +1,2 @@
-# dmitriysolodko.github.io
-тестовый сайт
+# Дмитрий Солодко
+Тестовый сайт по bootstrap
